@@ -1,1 +1,1 @@
-# html-and-css-challenge
+I could not figure out some off the css to make this look like the original, im going to submit it for now so I can move on to the next module but im gonna work on it until I figure it out and if needed I will re-submit.
